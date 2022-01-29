@@ -11,10 +11,10 @@ fn main() {
     let formal = true;
     
     let greeting = if formal {
-        println!("Good evening")
+        println!("Good evening");
     } else {
-        println!("Hey friend")
-    } //hypothesis: assigns greeting to the () unit as a null return type
+        println!("Hey friend");
+    };//hypothesis: assigns greeting to the () unit as a null return type
     //CORRECT!
 
     let boolean = true;
