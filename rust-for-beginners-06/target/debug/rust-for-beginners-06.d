@@ -1,1 +1,1 @@
-/mnt/c/Users/Beck/OneDrive\ -\ Duke\ University/Reports\ and\ Projects/Software\ Development/learning/rust/rust-for-beginners-06/target/debug/rust-for-beginners-06: /mnt/c/Users/Beck/OneDrive\ -\ Duke\ University/Reports\ and\ Projects/Software\ Development/learning/rust/rust-for-beginners-06/src/main.rs
+/home/beckadd/learning-rust/rust-for-beginners-06/target/debug/rust-for-beginners-06: /home/beckadd/learning-rust/rust-for-beginners-06/src/main.rs
